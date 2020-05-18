@@ -1,0 +1,25 @@
+---
+label: Crew member
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: job
+  label: job
+- type: text
+  name: mail
+  label: mail
+- type: text
+  name: linkedin
+  label: linkedin
+- type: file
+  name: image
+  label: image
