@@ -24,6 +24,7 @@ fields:
   name: image
   label: image
 pages:
+- _crew/kristine-ulander.md
 - _crew/magnus-johansson.md
 - _crew/pierre-mesure.md
 - _crew/sushma-giri.md
