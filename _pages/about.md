@@ -1,8 +1,22 @@
 ---
 permalink: /about/
 title: "About"
+image: /assets/images/team.jpg
+classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The Open Procurement project aims to support public release and reuse of data. The project will develop a platform to
+make procurement easier, more transparent, and efficient. We will use the internationally tested School of Data-model to
+involve stakeholders (journalists, companies, civil servants) in the platform development and to coach them in
+harvesting and visualizing data.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- A platform prototype visualizing procurement data
+- The platform will be co-created in the School of Data, which will coach (a) at least ten public institutions in
+publishing and reusing their data, and ten journalists in data reuse and (b) deliver open resources to build wider
+capacity in Sweden.
+- Recommendations on how to improve access to and reuse of public procurement data in Sweden based on an assessment of
+the data published on the platform and on feedback from stakeholders.
+
+## The Team
+
+{% include crew.html %}

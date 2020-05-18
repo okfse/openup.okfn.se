@@ -1,7 +1,65 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+title: "Öppen Upphandling"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/radio-station.jpg
+  actions:
+    - label: "Read more about the project"
+      url: "/blog/new-project/"
+  caption: "[Per Pixel Petersson/imagebank.sweden.se](https://imagebank.sweden.se/terrestrial+radio+station/southern+sweden/bohusl%25C3%25A4n/5238)"
+excerpt: "We're going on an adventure to unleash the potential of procurement data!"
+intro:
+  - excerpt: '**Open Procurement** is a project by **Open Knowledge Sweden** to help Swedish public institutions to release open procurement data and to help anyone to reuse it.'
+feature_row:
+  - image_path: /assets/images/join-us.jpg
+    alt: "join us"
+    title: "We need you!"
+    excerpt: 'Are you a government agency or a municipality looking to open your procurement data? A journalist who wants to reuse it?'
+    url: "/join-us/"
+    btn_label: "Join us!"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/prototype.jpg
+    alt: "the prototype"
+    title: "Get your hands on our prototype very soon!"
+    excerpt: 'Part of our project is a free analytics platform usable by anyone to get insights in government spending'
+    url: "#test-link"
+    btn_label: "Available soon!"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/team.jpg
+    alt: "about us"
+    title: "Learn more about the team behind the project"
+    excerpt: 'Öppen Upphandling is a project by Open Knowledge Sweden and DIGG funded by Vinnova'
+    url: "/about/"
+    btn_label: "About us"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/radio-station.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/radio-station.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/radio-station.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="center" %}
+
+{% comment %}{% include feature_row id="feature_row4" %}{% endcomment %}
