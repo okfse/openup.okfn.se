@@ -24,5 +24,6 @@ fields:
   name: image
   label: image
 pages:
+- _crew/pierre-mesure.md
 - _crew/sushma-giri.md
 - _crew/toni-mickiewicz.md
