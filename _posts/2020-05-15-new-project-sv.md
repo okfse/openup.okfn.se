@@ -6,7 +6,7 @@ categories:
 tags:
   - project
   - presentation
-class: wide
+classes: wide
 image: /assets/images/illustration-blog-1.png
 ---
 
