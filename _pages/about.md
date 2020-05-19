@@ -5,7 +5,7 @@ image: /assets/images/team.jpg
 classes: wide
 ---
 
-The Open Procurement project aims to support public release and reuse of data. The project will develop a platform to
+Open Up! aims to support public release and reuse of data. The project will develop a platform to
 make procurement easier, more transparent, and efficient. We will use the internationally tested School of Data-model to
 involve stakeholders (journalists, companies, civil servants) in the platform development and to coach them in
 harvesting and visualizing data.
