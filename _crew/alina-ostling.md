@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Sweden
 job: Scientific Coordinator
 mail: alinost@gmail.com
-linkedin: ''
+linkedin: 'alinaostling'
 image: "/assets/images/alina.jpg"
 
 ---

@@ -4,9 +4,7 @@ permalink: "/magnus/"
 categories:
 - DIGG
 job: Strateg
-mail: ''
 image: "/assets/images/magnus.jpg"
-linkedin: ''
 
 ---
 Strateg inom digitala tjänster, arbetar primärt med e-handel och IT på DIGG, verksam både inom OpenPeppol & SFTI, systemägare gentemot SSC för DIGGs verksamhetssystem inom ekonomi och HR.

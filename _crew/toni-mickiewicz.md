@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Sweden
 job: Project Manager
 mail: tonimickiewicz@gmail.com
-linkedin: ''
+linkedin: 'toni-mickiewicz-3223515a'
 image: "/assets/images/toni.jpg"
 
 ---
