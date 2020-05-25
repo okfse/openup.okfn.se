@@ -13,4 +13,4 @@ Our vision is that releasing this data will greatly improve the work of civil se
 
 To achieve this, we need you! Yeah you! Whether you're working for an administration, a newspaper or a startup, we're planning to build this project around your needs and wishes.
 
-We're having a consultation meeting where we will be talking to experts from all of the stakeholder industries on Thursday, 11 June at 10-12. Send an e-mail to [tonimickiewicz@gmail.com](mailto:tonimickiewicz@gmail.com) to register!
+We're having a consultation meeting where we will be talking to diverse experts on Thursday, 11 June at 10-12. Send an e-mail to [tonimickiewicz@gmail.com](mailto:tonimickiewicz@gmail.com) to register!
