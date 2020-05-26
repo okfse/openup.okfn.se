@@ -4,9 +4,9 @@ permalink: "/magnus/"
 categories:
 - DIGG
 job: Strateg
-image: ''
+image: "/assets/images/0.jpg"
 mail: ''
-linkedin: ''
+linkedin: https://www.linkedin.com/in/magnuspjohansson/?locale=zh_CN
 
 ---
 Strateg inom digitala tjänster, arbetar primärt med e-handel och IT på DIGG, verksam både inom OpenPeppol & SFTI, systemägare gentemot SSC för DIGGs verksamhetssystem inom ekonomi och HR.
