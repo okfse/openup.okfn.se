@@ -4,7 +4,7 @@ permalink: "/magnus/"
 categories:
 - DIGG
 job: Strateg
-image: ''
+image: "/assets/images/magnus.jpg"
 mail: ''
 linkedin: ''
 
