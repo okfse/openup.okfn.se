@@ -1,7 +1,7 @@
 ---
 title: De vill öppna Sveriges dataguldgruva
 permalink: June Report
-image: "/assets/images/174-1743989_battery-joe-flashlight-png-icon-in-a-circle.png"
+image: "/assets/images/unnamed.png"
 
 ---
 ### **De vill öppna Sveriges dataguldgruva**
@@ -16,7 +16,7 @@ Projektet[ Open Up!](https://medium.com/r/?url=https%3A%2F%2Fopenup.open-knowled
 
 En förebild finns i Finland där deras upphandlingsmyndighet har byggt tjänsten[ granskaupphandlingar.fi](https://medium.com/r/?url=http%3A%2F%2Fgranskaupphandlingar.fi) för att tillgängliggöra all data från den finska statens och samtliga kommuners inköp. I projektet[ Open Up!](https://medium.com/r/?url=https%3A%2F%2Fopenup.open-knowledge.se%2F) används ett Open Source-baserat[ Business Intelligence-verktyg](https://medium.com/r/?url=https%3A%2F%2Fbi.openup.open-knowledge.se%2Fdashboard%2F1%3Fdate_filter%3Dpast30years) där kommuners och regioners kostnader matas in och kan skapa ögonöppnande visualiseringar av datan.
 
-![](https://lh3.googleusercontent.com/2lm-V0h7hKNfdODZkOyBQw60eftP07Z95TFSeAtDPUfgKLxbtDg8u5e7PQg8omeFqQbZ3KN0evGrghkOaAvXdDRU_vv8iGpKPBkwa2u8WcxQ7bIV7Pb1LmAlN9THszE13-R47zM =643x311)
+![](/assets/images/unnamed.png)
 
 Exempel på hur data från upphandlingar kan visualiseras via Open Ups verktyg.
 
