@@ -1,6 +1,6 @@
 ---
 title: 'Innovationsveckan: Så kan öppen upphandling spara miljoner'
-permalink: Innovationsveckan Blog
+permalink: Innovationsveckan_Blog
 image: "/assets/images/logo-min.png"
 
 ---
