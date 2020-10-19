@@ -4,7 +4,7 @@ permalink: GuidePresentation
 image: "/assets/images/guide-image2.png"
 
 ---
-**Öppna upphandlingsdata kan motverka korruption och bluffakturor**
+**![](/assets/images/guide-image2.png)Öppna upphandlingsdata kan motverka korruption och bluffakturor**
 
 _Att öppna upp och tillgängliggöra datan från kommuners inköp kan minska risken att drabbas av bluffakturor och utbredd korruption. När allt blir transparent kan informationen från inköpen granskas av medborgare såväl som leverantörer och journalister._
 
