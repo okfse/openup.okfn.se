@@ -1,7 +1,7 @@
 ---
 title: 'Guide: Öppna upp upphandlingsdata'
 permalink: GuidePresentation
-image: "/assets/images/guide-image.png"
+image: "/assets/images/guide-image2.png"
 
 ---
 **Öppna upphandlingsdata kan motverka korruption och bluffakturor**
