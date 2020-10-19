@@ -36,6 +36,6 @@ Links to more information:
 
 [DIGG](https://drive.google.com/file/d/1MjTEY80iYfcmHALK-WjZazlpbBUenatI/view?usp=sharing "DIGG Strategy")
 
-[Guide (development version)](https://drive.google.com/file/d/1n4czy6lIG7ztvT0QMc8_Wt58kqmGIf8j/view?usp=sharing "OpenUp Guide")
+[Guide (development version)](Guide - Öppna upp min upphandlingsdata "Guide")
 
 [OpenUp Presentation](https://drive.google.com/file/d/1Za37mz_fZ3BdBhN5zJleqe-MvSiWsJKt/view?usp=sharing "OpenUp")
