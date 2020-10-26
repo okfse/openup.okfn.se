@@ -1,9 +1,9 @@
 main:
-  - title: "The project"
+  - title: "Projektet"
     url: /the-project/
-  - title: "Join us"
+  - title: "Kontakta oss"
     url: /join-us/
-  - title: "Blog"
+  - title: "Blogg"
     url: /blog/
-  - title: "About us"
+  - title: "Om oss"
     url: /about/

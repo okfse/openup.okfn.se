@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Open Procurement
+title: Open Up!
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Opening up public procurement data in Sweden to increase transparency and unleash innovation!

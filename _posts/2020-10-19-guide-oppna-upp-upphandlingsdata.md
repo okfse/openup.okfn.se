@@ -1,24 +1,29 @@
 ---
-title: 'Guide: Öppna upp upphandlingsdata'
-permalink: GuidePresentation
-image: "/assets/images/guide-image2.png"
+title: 'Vi presenterar en publiceringsguide!'
+permalink: guide
+image: "/assets/images/guide-image.jpg"
 
 ---
-**![](/assets/images/guide-image2.png)Öppna upphandlingsdata kan motverka korruption och bluffakturor**
+
+*Nu har vi publicerat en guide för att hjälpa myndigheter, kommuner och regioner att publicera upphandlingsdata, bl.a. leverantörsreskontra. Hör av dig om du saknar ett svar, guiden är fortfarande ett pågående arbete och vi skulle gärna vilja komplettera den med din hjälp!*
+
+**Du kan ladda ner guiden [här](/assets/documents/guide.pdf) (1.1)!**
+
+![](/assets/images/guide-image.jpg)
+
+Läs mer om eventet där vi presenterade guiden nere.
+
+**Öppna upphandlingsdata kan motverka korruption och bluffakturor**
 
 _Att öppna upp och tillgängliggöra datan från kommuners inköp kan minska risken att drabbas av bluffakturor och utbredd korruption. När allt blir transparent kan informationen från inköpen granskas av medborgare såväl som leverantörer och journalister._
 
-Under innovationsveckan arrangerade [Open Knowledge Sweden](https://sites.google.com/view/oksweden/home) och myndigheten för digital förvaltning [DIGG](https://www.digg.se/) seminariet Innovation inom upphandlingar. Där presenterade
-
-representanter från den offentliga förvaltningens inköpscentral i Finland (Hansel) tjänsten [granskaupphandlingar.fi ](https://www.granskaupphandlingar.fi/)som tillhandahåller öppen data om statens och kommunernas inköp.
+Under innovationsveckan arrangerade [Open Knowledge Sweden](https://sites.google.com/view/oksweden/home) och myndigheten för digital förvaltning [DIGG](https://www.digg.se/) seminariet Innovation inom upphandlingar. Där presenterade representanter från den offentliga förvaltningens inköpscentral i Finland (Hansel) tjänsten [granskaupphandlingar.fi ](https://www.granskaupphandlingar.fi/)som tillhandahåller öppen data om statens och kommunernas inköp.
 
 – Bland finska politiker fanns bred enighet kring öppnandet av inköpsdatan och flera privata företag har uttryckt positiv respons för möjligheten att studera sina konkurrenter, beskrev Juho Pursimo från Hansel.
 
 Projektet [Open Up](https://openup.open-knowledge.se/) som drivs av Open Knowledge Sweden och DIGG syftar till att leda utvecklingen i Sverige åt ett liknande håll som Finland.
 
-– Det är inspirerande att se hur andra länder arbetar! Kan vi införa det här i Sverige? I Sverige finns ingen centraliserad inköpsavdelning på statlig nivå som det gör i Finland i Hansel. Det kräver därför en samverkan hos myndigheter och offentliga aktörer, beskrev
-
-Kristine Ulander som jobbar med digital utveckling på DIGG.
+– Det är inspirerande att se hur andra länder arbetar! Kan vi införa det här i Sverige? I Sverige finns ingen centraliserad inköpsavdelning på statlig nivå som det gör i Finland i Hansel. Det kräver därför en samverkan hos myndigheter och offentliga aktörer, beskrev Kristine Ulander som jobbar med digital utveckling på DIGG.
 
 Det finns dock redan möjlighet för enskilda myndigheter och kommuner att öppna upp upphandlingsdatan, något som Örebro, Umeå, Göteborg och Lidingö kommuner redan gjort och andra förbereder att göra. Projektet Open Up erbjuder vägledning för att stödja offentliga aktörer som vill göra detta.
 
@@ -28,14 +33,12 @@ Projektet Nationell skalning öppna data ([NSÖD)](https://www.ri.se/sv/vad-vi-g
 
 Fredagen den 23 oktober kl 13:00-13:45 arrangerar Open Knowledge det kostnadsfria webinaret [Hur undviker vi korruption och bluffakturor?](https://entryscape.com/sv/portfolio-item/webinar-hur-undviker-vi-korruption-och-bluffakturor/) tillsammans med företaget MetaSolutions. Fokus kommer vara på hur kommuner genom att öppna upp och tillgängliggöra datan kan skapa bättre konkurrens på rättvisa villkor, undvika korruption, spara tid och effektivisera arbetet. Välkommen att delta!
 
-Links to more information:
+Mer information:
 
-[Rise presentation](https://drive.google.com/file/d/1kVAsigv3O-yemiT_CbzHIRxyMzyXB5U7/view?usp=sharing "RISE NSÖD")
+[RISEs presentation](https://drive.google.com/file/d/1kVAsigv3O-yemiT_CbzHIRxyMzyXB5U7/view?usp=sharing "RISE NSÖD")
 
-[Granskaupphandlingar](https://drive.google.com/file/d/1AxJnrXEegJf_NnWQq781tQoLFWZHmfW2/view?usp=sharing "Finland Experience")
+[Granskaupphandlingar.fi](https://drive.google.com/file/d/1AxJnrXEegJf_NnWQq781tQoLFWZHmfW2/view?usp=sharing "Finland Experience")
 
-[DIGG](https://drive.google.com/file/d/1MjTEY80iYfcmHALK-WjZazlpbBUenatI/view?usp=sharing "DIGG Strategy")
+[DIGGs presentation](https://drive.google.com/file/d/1MjTEY80iYfcmHALK-WjZazlpbBUenatI/view?usp=sharing "DIGG Strategy")
 
-[Guide (development version)](Guide - Öppna upp min upphandlingsdata "Guide")
-
-[OpenUp Presentation](https://drive.google.com/file/d/1Za37mz_fZ3BdBhN5zJleqe-MvSiWsJKt/view?usp=sharing "OpenUp")
+[OpenUps Presentation](https://drive.google.com/file/d/1Za37mz_fZ3BdBhN5zJleqe-MvSiWsJKt/view?usp=sharing "OpenUp")
