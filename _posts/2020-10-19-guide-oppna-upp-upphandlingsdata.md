@@ -1,13 +1,12 @@
 ---
-title: 'Vi presenterar en publiceringsguide!'
+title: Vi presenterar en publiceringsguide!
 permalink: guide
 image: "/assets/images/guide-image.jpg"
 
 ---
+_Nu har vi publicerat en guide för att hjälpa myndigheter, kommuner och regioner att publicera upphandlingsdata, bl.a. leverantörsreskontra. Hör av dig om du saknar ett svar, guiden är fortfarande ett pågående arbete och vi skulle gärna vilja komplettera den med din hjälp!_
 
-*Nu har vi publicerat en guide för att hjälpa myndigheter, kommuner och regioner att publicera upphandlingsdata, bl.a. leverantörsreskontra. Hör av dig om du saknar ett svar, guiden är fortfarande ett pågående arbete och vi skulle gärna vilja komplettera den med din hjälp!*
-
-**Du kan ladda ner guiden [här](/assets/documents/guide.pdf) (1.1)!**
+**Du kan ladda ner guiden** [**här**](/assets/documents/guide.pdf) **(1.1)!**
 
 ![](/assets/images/guide-image.jpg)
 
