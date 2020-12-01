@@ -1,6 +1,6 @@
 ---
 title: blogg
-permalink: pages/
+permalink: posts/
 image: ''
 
 ---
