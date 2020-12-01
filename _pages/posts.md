@@ -1,6 +1,6 @@
 ---
 title: Blogg
-permalink: "/posts/"
+permalink: https://openup-sweden.blogspot.com/2020/12/httpswww.html
 image: ''
 
 ---
