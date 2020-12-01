@@ -4,3 +4,4 @@ permalink: blog/
 image: ''
 
 ---
+{% include posts.html %}
