@@ -1,5 +1,5 @@
 ---
-title: CIVIC TECH MÖTER GOVTECH
+title: Civictech möter govtech
 permalink: govtech
 image: "/assets/images/govtech-1.png"
 
