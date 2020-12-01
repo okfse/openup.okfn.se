@@ -1,5 +1,5 @@
 ---
-title: blogg
+title: Blogg
 permalink: posts/
 image: ''
 
