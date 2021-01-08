@@ -57,6 +57,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Matomo Analaytics
+analytics:
+  provider: "custom"
+
 footer:
   links:
     - label: "Twitter"
