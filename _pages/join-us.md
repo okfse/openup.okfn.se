@@ -1,6 +1,6 @@
 ---
-title: Join us
-permalink: "/join-us/"
+title: Gå med!
+permalink: "/ga-med/"
 layout: single
 author_profile: false
 
@@ -9,9 +9,10 @@ author_profile: false
 
 Vårt mål är att göra så mycket upphandlingsdata öppet som möjligt! Men varför gör vi det?
 
-Vår vision är att publicera detta data kommer förbättra 
-Our vision is that releasing this data will greatly improve the work of civil servants inside government agencies, municipalities and regions. Our vision is that it will unleash a wave of innovation, allowing our public sector to be more effective, more collaborative and eventually helping to deliver the next generation of public services to all citizens.
+Vår vision är att publicera detta data kommer förbättra den offentliga sektorns arbete i myndigheter, kommuner och regioner!
 
-To achieve this, we need you! Yeah you! Whether you're working for an administration, a newspaper or a startup, we're planning to build this project around your needs and wishes.
+Vår vision är att detta kommer leda till en innovationsvåg som gör vår offentlig sektor effektivare, inleder nya samarbeten och hjälper dem att skapa framtidens tjänster för medborgare tillsammans med privata leverantörer.
 
-We're having a consultation meeting where we will be talking to diverse experts on Thursday, 11 June at 10-12. Send an e-mail to [tonimickiewicz@gmail.com](mailto:tonimickiewicz@gmail.com) to register!
+För att lyckas med det här behöver vi dig! Jo, dig! Oavsett om du jobbar för en offentlig förvaltning, ett startup eller som journalist, vi vill bygga det här projektet baserat på dina önskemål och behov!
+
+Vi organiserar workshopper, träningar löpande och vi erbjuder stödssessioner för dig som vill komma igång. Hör av dig till vår projektledare Toni([tonimickiewicz@gmail.com](mailto:tonimickiewicz@gmail.com)) om du vill veta mer!

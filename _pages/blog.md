@@ -1,6 +1,6 @@
 ---
-title: "Our articles"
-permalink: /blog/
+title: "Våra blogginlägg"
+permalink: /blogg/
 layout: posts
 author_profile: false
 ---

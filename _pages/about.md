@@ -1,22 +1,22 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /om-oss/
+title: "Om oss"
 image: /assets/images/team.jpg
-classes: wide
+layout: single
 ---
 
-Open Up! aims to support public release and reuse of data. The project will develop a platform to
-make procurement easier, more transparent, and efficient. We will use the internationally tested School of Data-model to
-involve stakeholders (journalists, companies, civil servants) in the platform development and to coach them in
-harvesting and visualizing data.
+Bakom Open Up! ligger [Open Knowledge Sweden](https://sites.google.com/view/oksweden/home) (OKSE) och [myndigheten för digital förvaltning](https://www.digg.se) (DIGG).
 
-- A platform prototype visualizing procurement data
-- The platform will be co-created in the School of Data, which will coach (a) at least ten public institutions in
-publishing and reusing their data, and ten journalists in data reuse and (b) deliver open resources to build wider
-capacity in Sweden.
-- Recommendations on how to improve access to and reuse of public procurement data in Sweden based on an assessment of
-the data published on the platform and on feedback from stakeholders.
+![](/assets/images/OKSE-DIGG.png)
 
-## The Team
+Även Föreningen för grävande journalister, Open Contracting Partnership och Transparency International Ukraine är med som partners och bidrar med expertkunskap.
+
+![](/assets/images/FGJ-OCP-TIUKR.png)
+
+Projektet finansieras av [Vinnovas första Civic Tech utlysning](https://www.vinnova.se/e/civic-tech/digitala-tjanster-for-2019-04507/) som syftar att bygga digitala tjänster för stärkt förtroende mellan medborgare och offentlig sektor.
+
+<img src="/assets/images/vinnova-logo.png" style="display: block;margin-left:auto;margin-right: auto;" alt="Vinnovas logga" width="50%"/>
+
+## Teamet
 
 {% include crew.html %}
