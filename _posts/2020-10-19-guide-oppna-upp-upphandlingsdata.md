@@ -1,6 +1,6 @@
 ---
 title: Vi presenterar en publiceringsguide!
-permalink: guide
+permalink: /guide/
 image: "/assets/images/guide-image.jpg"
 
 ---

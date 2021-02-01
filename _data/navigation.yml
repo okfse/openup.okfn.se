@@ -1,13 +1,13 @@
 main:
-  - title: "🏛 Projekt"
-    url: /vart-projekt/
+  - title: "🏛 Vårt projekt"
+    url: /vart-projekt
   - title: "🙋🏽‍♀️ Gå med!"
-    url: /ga-med/
+    url: /ga-med
   - title: "📕 Publicera"
-    url: /guide/
+    url: /publicera
   - title: "📊 Visualisera"
-    url:
+    url: /visualisera
   - title: "📝 Blogg"
-    url: /blogg/
+    url: /blogg
   - title: "👩‍👩‍👧‍👦 Om oss"
-    url: /om-oss/
+    url: /om-oss

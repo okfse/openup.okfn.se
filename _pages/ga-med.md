@@ -1,10 +1,9 @@
 ---
-title: Gå med!
-permalink: "/ga-med/"
+title: 🙋🏽‍♀️ Gå med!
+permalink: "/ga-med"
 layout: single
-author_profile: false
-
 ---
+
 ![](/assets/images/join-us.jpg)
 
 Vårt mål är att göra så mycket upphandlingsdata öppet som möjligt! Men varför gör vi det?

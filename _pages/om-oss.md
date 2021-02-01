@@ -1,8 +1,7 @@
 ---
-permalink: /om-oss/
-title: "Om oss"
-image: /assets/images/team.jpg
+title: 👩‍👩‍👧‍👦 Om oss
 layout: single
+permalink: /om-oss/
 ---
 
 Bakom Open Up! ligger [Open Knowledge Sweden](https://sites.google.com/view/oksweden/home) (OKSE) och [myndigheten för digital förvaltning](https://www.digg.se) (DIGG).
