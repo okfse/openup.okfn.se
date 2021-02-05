@@ -5,9 +5,13 @@ permalink: "/visualisera"
 classes: wide
 ---
 
-Här kommer du snart kunna visualisera och bläddra i nyckeltal krind de öppna inköpsdata som vi har redan samlat.
-
-![](/assets/images/metabase.png)
+<iframe
+    src="https://bi.openup.open-knowledge.se/public/dashboard/b7e54e91-27e0-49fb-8c38-0995763b8abf"
+    frameborder="0"
+    width="1000"
+    height="2200"
+    allowtransparency>
+</iframe>
 
 Vi håller på att bygga de här visualiseringarna och du kan redan få ett smakprov genom att logga in på backenden av vårt *Business Intelligence*-verktyg Metabase på den här sidan: [bi.openup.open-knowledge.se](https://bi.openup.open-knowledge.se){:target="_blank"}.
 
