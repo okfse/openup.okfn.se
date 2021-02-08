@@ -15,25 +15,27 @@
 # in the templates via {{ site.myvariable }}.
 title: Open Up!
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Opening up public procurement data in Sweden to increase transparency and unleash innovation!
+description: Skapa mer innovation med öppna inköpsdata!
 twitter_username: okfse
 github_username: okfse
 repository: "okfse/openprocurement-website"
-minimal_mistakes_skin: default
-search: true
+search:
+  provider: default
 
 logo: "/assets/images/openup-logo-without-text.png"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: kitian616/jekyll-TeXt-theme
+text_skin: default-blue # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Stockholm
-locale: sv-SE
+lang: sv
 
 include:
   - _pages
@@ -78,7 +80,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: page
       author_profile: false
       read_time: true
       comments: false
@@ -89,5 +91,5 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
+      layout: page
       author_profile: false

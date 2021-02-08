@@ -4,9 +4,9 @@ permalink: "/alina/"
 categories:
 - Open Knowledge Sweden
 job: Scientific Coordinator
-mail: alinost@gmail.com
+mail: alina.ostling@gmail.com
 linkedin: alinaostling
-image: "/assets/images/alina-ostling-600x800.jpg"
+image: "/assets/images/alina-ostling-okse.jpg"
 
 ---
 Alina has a PhD in Political Sciences from the [European University Institute](http://www.eui.eu) and is presently the co-chair of the Open Knowledge Sweden. She has a long experience as researcher and expert providing support to academic, non-profit and international organisations (European Commission, OSCE/ODIHR, UNDP, UNICEF) in the areas of open government, open data, (digital) media and civic participation.

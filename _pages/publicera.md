@@ -1,6 +1,6 @@
 ---
 title: 📕 Publicera
-layout: single
+layout: page
 permalink: "/publicera"
 ---
 

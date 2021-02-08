@@ -1,20 +1,28 @@
 ---
-title: Open Up!
-layout: single
+title: Vi skapar nya möjligheter med öppna inköpsdata
+layout: article
 permalink: "/vart-projekt"
+article_header:
+  type: overlay
+  theme: dark
+  align: center
+  height: 5vh
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .3))'
+    src: /assets/images/josh-nezon-R1Zb58LmwIY-unsplash.jpg
 ---
 
-# Vi skapar nya möjligheter med öppna inköpsdata
-
-**Open Up!** (ursprungligen Öppen Upphandling) är ett projekt som ska **stimulera innovation och öppenhet kring offentlig upphandling och andra offentliga inköp i Sverige**.
+**Open Up!** (ursprungligen Öppen Upphandling) är ett projekt som syftar att **skapa innovation och öppenhet kring offentlig upphandling och andra offentliga inköp i Sverige**.
 
 Sverige är en välfärdsstat där vi gemensamt bidrar till ett samhälle där alla har rätt till vård, omsorg, utbildning, kultur och mycket mer.
 
 <p style="text-align:center;display:inline-block;margin-left:auto;margin-right:auto;">
-  <img src="/assets/images/jonathan-borba-DilsWmfEoxQ-unsplash-2.jpg" alt="Nyfött barn på sjukhuset" width="40%"/>
-  <img src="/assets/images/steven-erixon-KfbSy8FEcMU-unsplash.jpg" alt="Slussens gigantiska byggprojekt" width="40%"/>
+  <img src="/assets/images/jonathan-borba-DilsWmfEoxQ-unsplash-2.jpg" alt="Nyfött barn på sjukhuset" width="49%"/>
+  <img src="/assets/images/steven-erixon-KfbSy8FEcMU-unsplash.jpg" alt="Slussens gigantiska byggprojekt" width="49%"/>
+  Photos by <a href='https://unsplash.com/@jonathanborba'>Jonathan Borba</a> & <a href='https://unsplash.com/@stevenerixon'>Steven Erixon</a> on Unsplash
 </p>
-*Photo by [Jonathan Borba](https://unsplash.com/@jonathanborba) & [Steven Erixon](https://unsplash.com/@stevenerixon) on Unsplash*
+
 
 För att genomföra den här visionen spenderar svenska offentliga institutioner **hundratals miljarder kronor varje år**, en stor del genom upphandling. Det är en resurskrävande process som är svår att navigera för både företag och tjänstepersoner. Det är lätt att göra misstag och svårt att upptäcka fel eller signaler om korruption.
 

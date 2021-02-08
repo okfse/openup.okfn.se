@@ -1,6 +1,6 @@
 ---
 title: "New project to open up public procurement in Sweden"
-date: 2020-05-15 09:00:00 +0000
+date: 2020-05-15
 categories:
   - blog
 tags:
