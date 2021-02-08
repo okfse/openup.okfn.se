@@ -4,7 +4,7 @@ permalink: "/kristine/"
 categories:
 - DIGG
 job: Strateg nationell digital utveckling
-image: "/assets/images/ku.jpg"
+image: "/assets/images/kristine-ulander-digg.jpg"
 mail: ''
 linkedin: https://www.linkedin.com/in/kristineulander/
 

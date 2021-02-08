@@ -4,7 +4,7 @@ permalink: "/magnus/"
 categories:
 - DIGG
 job: Strateg
-image: "/assets/images/0.jpg"
+image: "/assets/images/magnus-johansson-digg.jpg"
 mail: ''
 linkedin: https://www.linkedin.com/in/magnuspjohansson/?locale=zh_CN
 

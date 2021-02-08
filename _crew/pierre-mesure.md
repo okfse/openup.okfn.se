@@ -5,7 +5,8 @@ categories:
 - Open Knowledge Sweden
 job: Advisor
 mail: pierre@mesu.re
-linkedin: pierremesure/
+linkedin: pierremesure
+github: pierremesure
 image: "/assets/images/pierre.jpg"
 
 ---

@@ -6,70 +6,50 @@
 
     {% if author.image %}
     <div class="author__avatar">
-      <img src="{{ author.image | relative_url }}" alt="{{ author.title }}" itemprop="image">
+      <img class="circle border shadow" src="{{ author.image | relative_url }}" alt="{{ author.title }}" itemprop="image" style="display:block;margin-left:auto;margin-right:auto;width:30%;">
     </div>
     {% endif %}
 
     <div class="author__content">
       <h3 class="author__name" itemprop="name">{{ author.title }}</h3>
+
+      {% if author.mail %}
+        <a class="button button--primary button--pill" href="mailto:{{ author.mail }}">
+          <i class="fas fa-fw fa-envelope-square"></i>
+        </a>
+        {% endif %}
+
+        {% if author.twitter %}
+        <a class="button button--primary button--pill" href="https://twitter.com/{{ author.twitter }}">
+          <i class="fab fa-twitter"></i>
+        </a>
+        {% endif %}
+
+        {% if author.facebook %}
+        <a class="button button--primary button--pill" href="https://facebook.com/{{ author.facebook }}">
+          <i class="fab fa-fw fa-facebook-square"></i>
+        </a>
+        {% endif %}
+
+        {% if author.linkedin %}
+        <a class="button button--primary button--pill" href="https://www.linkedin.com/in/{{ author.linkedin }}">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        {% endif %}
+
+        {% if author.github %}
+        <a class="button button--primary button--pill" href="https://github.com/{{ author.github }}">
+          <i class="fab fa-fw fa-github"></i>
+        </a>
+        {% endif %}
+
       {% if author.content %}
       <div class="author__bio" itemprop="description">
         {{ author.content | markdownify }}
       </div>
       {% endif %}
     </div>
-
-    <div class="author__urls-wrapper">
-      <button
-        class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
-      <ul class="author__urls social-icons">
-
-        {% if author.mail %}
-        <li>
-          <a href="mailto:{{ author.email }}">
-            <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="false"></i><span
-              class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
-          </a>
-        </li>
-        {% endif %}
-
-        {% if author.twitter %}
-        <li>
-          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span>
-          </a>
-        </li>
-        {% endif %}
-
-        {% if author.facebook %}
-        <li>
-          <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i><span class="label">Facebook</span>
-          </a>
-        </li>
-        {% endif %}
-
-        {% if author.linkedin %}
-        <li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs"
-            rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
-          </a>
-        </li>
-        {% endif %}
-
-        {% if author.github %}
-        <li>
-          <a href="https://github.com/{{ author.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
-          </a>
-        </li>
-        {% endif %}
-
-        {% include author-profile-custom-links.html %}
-      </ul>
-    </div>
   </div>
+  <br>
   {% endfor %}
 </figure>

@@ -6,7 +6,7 @@ categories:
 job: Project Manager
 mail: tonimickiewicz@gmail.com
 linkedin: toni-mickiewicz-3223515a
-image: "/assets/images/20140901_114904-1.jpg"
+image: "/assets/images/toni-mickiewicz-okse.jpg"
 
 ---
 Toni has a Masters in European Politics and Administration from the College of Europe, and further degrees in Government and History. He worked for numerous entities including as European Programme Manager at TechSoup Global, an MS affiliate, and the EastWest Institute a US Think Tank, contributing to consultations on developing the Digital Single Market policy, and civil society multi-project processes which were linked to contributing to the PSI directive. In 2008 his 12-country program was awarded the European e-Inclusion awards in Vienna, for establishing donations and professional support network for organizations working on projects related to the Digital Agenda in the European and neighborhood area. He worked extensively on the ground in countries including Ukraine, Russia, the Caucasus, the Western Balkans, Indonesia with developing data-based reforms, and framing transparency and accountability policy in post-conflict and post-totalitarian transition environments. In 2007-2008 he managed teams of experienced investigative journalists to form professional associations in the Pacific area and build a local core of journalists while improving their working relationship with government agencies. In 2010 he helped establish data journalism workshops and electronic waste recycling workshops in West Africa, Ghana, and Nigeria.

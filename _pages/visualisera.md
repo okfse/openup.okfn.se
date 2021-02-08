@@ -1,8 +1,7 @@
 ---
 title: 📊 Visualisera
-layout: single
+layout: page
 permalink: "/visualisera"
-classes: wide
 ---
 
 <iframe
@@ -13,12 +12,14 @@ classes: wide
     allowtransparency>
 </iframe>
 
-Vi håller på att bygga de här visualiseringarna och du kan redan få ett smakprov genom att logga in på backenden av vårt *Business Intelligence*-verktyg Metabase på den här sidan: [bi.openup.open-knowledge.se](https://bi.openup.open-knowledge.se){:target="_blank"}.
+### Vill du utforska datat själv?
 
-Använd dessa uppgifter för att logga in med vårt gäst-konto:
+På vårt *Business Intelligence*-verktyg Metabase får du direkt tillgång till data och du kan även skapa dina egna dashboards och visualiseringar!
 
-- E-postadress: **openup@open-knowledge.se** <button style="display: inline-block;" onclick="copyToClipboard('openup@open-knowledge.se')">📋</button>
-- Lösenord: **0penup** <button style="display: inline-block;" onclick="copyToClipboard('0penup')">📋</button>
+Gå till den här sidan: [bi.openup.open-knowledge.se](https://bi.openup.open-knowledge.se){:target="_blank"} och använd dessa uppgifter för att logga in med vårt gäst-konto:
+
+- E-postadress: **openup@open-knowledge.se** <button class="button button--primary button--rounded button--xs" style="display: inline-block;" onclick="copyToClipboard('openup@open-knowledge.se')">Kopiera  <i class="fas fa-copy"></i></button>
+- Lösenord: **0penup** <button class="button button--primary button--rounded button--xs" style="display: inline-block;" onclick="copyToClipboard('0penup')">Kopiera  <i class="fas fa-copy"></i></button>
 
 <script>
 function copyToClipboard(text) {

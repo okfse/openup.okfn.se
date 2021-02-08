@@ -1,6 +1,6 @@
 ---
 title: "Nytt projekt för att öppna upp data om offentliga upphandlingar i Sverige"
-date: 2020-05-15 09:00:00 +0000
+modify_date: 2020-05-15
 categories:
   - blog
 tags:
