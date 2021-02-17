@@ -31,10 +31,10 @@ data:
         - text: <i class="fas fa-book"></i> Läs vår guide
           url: /publicera
         - text: <i class="fas fa-video"></i> Boka ett stödsession
-          url: /kontakta-oss
+          url: /om-oss/#kontakta-oss
       theme: light
       image:
-        src: /assets/images/guide-image-cropped.png
+        src: /assets/images/guide-home.png
       background_color: "#E8E8E8"
     - title: Visualisera data
       excerpt: Bläddra i inköpsdata eller laddar ner det

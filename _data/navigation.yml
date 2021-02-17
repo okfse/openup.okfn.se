@@ -11,3 +11,51 @@ header:
     url: /blogg
   - title: "👩‍👩‍👧‍👦&nbsp;Om&nbsp;oss"
     url: /om-oss
+
+publicera:
+  - title: Start
+    url: /publicera/intro
+  - title: För beslutfattare
+    children:
+      - title: Vad betyder öppna data?
+        url: /publicera/for-beslutfattare#vad-betyder-öppna-data
+      - title: Varför ska man öppna inköpsdata?
+        url: /publicera/for-beslutfattare#varför-ska-man-öppna-inköpsdata
+      - title: Hur mycket kostar det?
+        url: /publicera/for-beslutfattare#hur-mycket-kostar-det
+      - title: Finns det risker?
+        url: /publicera/for-beslutfattare#finns-det-risker
+      - title: Hur ser jag till att öppna inköpsdata används?
+        url: /publicera/for-beslutfattare#hur-ser-jag-till-att-öppna-inköpsdata-används
+  - title: För juristen
+    children:
+      - title: Vilka juridiska aspekter är viktiga att tänka på?
+        url: /publicera/for-juristen#vilka-juridiska-aspekter-är-viktiga-att-tänka-på
+      - title: Hur publicerar man något ändå?
+        url: /publicera/for-juristen#hur-publicerar-man-något-ändå
+  - title: För ekonomihandläggaren
+    children:
+      - title: Vad finns det för fördelar med att öppna inköpsdata?
+        url: /publicera/for-ekonomihandlaggaren#vad-finns-det-för-fördelar-med-att-öppna-inköpsdata
+      - title: Vart ska man börja?
+        url: /publicera/for-ekonomihandlaggaren#vart-ska-man-börja
+  - title: För IT-strategen
+    children:
+      - title: I vilken format ska man publicera datan?
+        url: /publicera/for-it-strategen#i-vilken-format-ska-man-publicera-datan
+      - title: Hur bygger jag ett hållbart dataflöde för att publicera datan?
+        url: /publicera/for-it-strategen#hur-bygger-jag-ett-hållbart-dataflöde-för-att-publicera-datan
+  - title: Exportera sitt data manuellt
+    children:
+      - title: Intro
+        url: /publicera/exportera-data-manuellt
+      - title: Visma Proceedo
+        url: /publicera/exportera-data-manuellt/visma-proceedo
+      - title: Visma RoR
+        url: /publicera/exportera-data-manuellt/visma-ror
+  - title: Fler resurser
+    children:
+      - title: Läs mer
+        url: /publicera/fler-resurser#läs-mer
+      - title: Boka ett möte med oss!
+        url: /publicera/fler-resurser#boka-ett-möte-med-oss

@@ -6,7 +6,6 @@ categories:
 tags:
   - project
   - presentation
-classes: wide
 image: /assets/images/illustration-blog-1.png
 ---
 
@@ -20,7 +19,7 @@ Den internationellt kända [School of Data](https://schoolofdata.org/)-modellen 
 
 Det 15-månader långa projektet kommer att hålla regelbundna workshops för intressenter och fullborda en plattformsprototyp fram till juni 2021. Utifrån en bedömning av de data som publicerats på plattformen och genom feedback från intressenter kommer projektet att ta fram riktlinjer och rekommendationer för hur publiceringen av data om offentlig upphandling kan förbättras i Sverige. Med detta projekt hoppas vi kunna främja användningen och användbarheten av offentliga uppgifter samt katalysera nya initiativ i olika sektorer i Sverige, med målet att skapa nya informationsflöden kring upphandlingsdata mellan tjänstemän, företag och olika medborgarintressen..
 
-Kontakta oss gärna om du vill vara med på vårt initiativ!
+[Kontakta oss](/om-oss/#kontakta-oss) gärna om du vill vara med på vårt initiativ!
 
 **Kontakt:**
 

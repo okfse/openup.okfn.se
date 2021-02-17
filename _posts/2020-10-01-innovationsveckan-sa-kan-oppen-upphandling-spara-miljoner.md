@@ -2,8 +2,8 @@
 title: 'Innovationsveckan: Så kan öppen upphandling spara miljoner'
 permalink: Innovationsveckan_Blog
 image: "/assets/images/logo-min.png"
-
 ---
+
 **Kom och inspireras av en finländsk framgångssaga! Finland sparar stora summor pengar genom att tillgängliggöra information om kommuners och myndigheters inköp i en öppen databas på nätet. Även i Sverige tas spännande steg i liknande riktning. På innovationsveckan arrangeras ett seminarium där dessa föregångsaktörer deltar.**
 
 Den 9 oktober kl 10-12 arrangeras det kostnadsfria online-seminariet [Innovation inom upphandlingar](https://www.goto10.se/evenemang/innovation-inom-upphandlingar/) (anmälan krävs via länken).

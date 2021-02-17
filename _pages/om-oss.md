@@ -1,6 +1,5 @@
 ---
 title: 👩‍👩‍👧‍👦 Om oss
-layout: article
 permalink: /om-oss/
 ---
 
@@ -23,6 +22,12 @@ Projektet finansieras av [Vinnovas första Civic Tech utlysning](https://www.vin
 <br>
 <img src="/assets/images/vinnova-logo.png" style="display: block;margin-left:auto;margin-right: auto;" alt="Vinnovas logga" width="50%"/>
 <br>
+
+## Kontakta oss
+
+Är du journalist, forskare eller medborgare? Vill du återanvända inköpsdata i ditt arbete eller delta i en av våra workshops för att förstå hur man kan komma igång? Då kan du kontakta [Toni Mickiewicz](mailto:tonimickiewicz@gmail.com).
+
+Är du anställd hos en offentlig organisation (kommun, myndighet...) och är intresserad av få vår hjälp för att öppna dina inköpsdata? Då kan du kontakta [Alina Ostling](mailto:alina.ostling@gmail.com).
 
 ## Teamet
 

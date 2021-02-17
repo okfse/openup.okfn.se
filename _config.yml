@@ -21,6 +21,7 @@ github_username: okfse
 repository: "okfse/openprocurement-website"
 search:
   provider: default
+license: CC-BY-4.0
 
 logo: "/assets/images/openup-logo-without-text.png"
 
@@ -74,22 +75,32 @@ collections:
   crew:
     title: Crew
     output: false
+  guide:
+    output: true
+
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
-      layout: page
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: true
+      layout: article
+      sharing: true
+      license: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: page
-      author_profile: false
+      layout: article
+  - scope:
+      path: "_guide"
+    values:
+      layout: article
+      sidebar:
+        nav: publicera
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: true
+      show_date: false

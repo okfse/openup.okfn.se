@@ -1,7 +1,6 @@
 ---
 title: 🙋🏽‍♀️ Gå med!
 permalink: "/ga-med"
-layout: article
 article_header:
   type: overlay
   theme: dark

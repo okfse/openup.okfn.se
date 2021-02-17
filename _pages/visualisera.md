@@ -31,4 +31,4 @@ function copyToClipboard(text) {
 }
 </script>
 
-Eller kontakta oss för att skapa ett konto för att spara dina egna privata dashboards.
+Eller [kontakta oss](/om-oss/#kontakta-oss) för att skapa ett konto för att spara dina egna privata dashboards.

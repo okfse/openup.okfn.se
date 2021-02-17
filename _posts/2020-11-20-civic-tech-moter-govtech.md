@@ -2,7 +2,6 @@
 title: "Event: Civictech möter Govtech"
 permalink: civictech-moter-govtech
 cover: "/assets/images/civictech-moter-govtech.jpg"
-layout: article
 ---
 
 Den 1:a december blir det GovTech day och projektet OpenUp! kommer vara med på en session organiserad av Civic Tech Sverige.

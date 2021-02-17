@@ -2,7 +2,6 @@
 title: "Event: Innovation inom upphandlingar"
 permalink: innovation inom upphandlingar
 cover: "/assets/images/guide-image.jpg"
-layout: article
 ---
 
 _**Att öppna upp och tillgängliggöra datan från kommuners inköp kan minska risken att drabbas av bluffakturor och utbredd korruption. När allt blir transparent kan informationen från inköpen granskas av medborgare såväl som leverantörer och journalister.**_

@@ -1,6 +1,5 @@
 ---
 title: Vi skapar nya möjligheter med öppna inköpsdata
-layout: article
 permalink: "/vart-projekt"
 article_header:
   type: overlay
@@ -41,7 +40,7 @@ För att genomföra det på bästa sätt och hjälpa så många som möjligt anv
 ![](/assets/images/holly-mandarich-UVyOfX3v0Ls-unsplash.jpg)
 *Photo by [Holly Mandarich](https://unsplash.com/@hollymandarich) on Unsplash*
 
-**[Kontakta oss](mailto:tonimickiewicz@gmail.com) för att vara med! Alla är välkomna och vi hjälper dig från steg 1!**
+**[Kontakta oss](/om-oss/#kontakta-oss) för att vara med! Alla är välkomna och vi hjälper dig från steg 1!**
 
 # Vad kommer **Open Up!** leverera?
 
