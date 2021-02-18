@@ -14,7 +14,7 @@ Vinnova finansierar under 2020-21 ett projekt för att göra svensk upphandlings
 
 I portalen OpenUP ligger redan nu data tillgänglig från ett dussintal myndigheter och kommuner - och nu har du möjlighet att få en direkt inblick i systemet och under ledning av en av Sveriges främsta datajournalister diskutera hur du lättast söker information och skapar narrativ med hjälp av databasen.
 
-Workshop 1 Välj mellan 10 mars klockan 16 – 18 eller den 17 mars 8.30 – 10.30.
+**Workshop 1 Välj mellan 10 mars klockan 16 – 18 eller den 17 mars 8.30 – 10.30.**
 
 På agendan bl.a.:
 
@@ -28,6 +28,6 @@ På agendan bl.a.:
 
 Workshop 1 kommer att följas av ett andra tillfälle då även tjänstemän kommer att delta och där fokus blir på framtida möjligheter inom datavisualisering och användning, samt hur vi kan underlätta datasökning och ett effektivt och automatiserat informationsflöde från myndigheter och kommuner.
 
-Save the date: 24 mars klockan 8.30-10.30 eller 31 mars mellan 16-18
+**Workshop 2 save the date: 24 mars klockan 8.30-10.30 eller 31 mars mellan 16-18**
 
 Intresserad av att delta? För anmälan eller frågor, vänligen kontakta [tonimickiewicz@gmail.com](mailto:tonimickiewicz@gmail.com)
