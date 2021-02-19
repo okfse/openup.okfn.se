@@ -1,14 +1,15 @@
 ---
-title: "Nytt projekt för att öppna upp data om offentliga upphandlingar i Sverige"
-modify_date: 2020-05-15
-categories:
-  - blog
+title: Nytt projekt för att öppna upp data om offentliga upphandlingar i Sverige
+modify_date: '2020-05-15'
+categories: []
 tags:
-  - project
-  - presentation
-image: /assets/images/illustration-blog-1.png
----
+- project
+- presentation
+image: "/assets/images/illustration-blog-1.png"
+cover: "/assets/images/illustration-blog-1.png"
+permalink: nytt-projekt
 
+---
 ![](/assets/images/illustration-blog-1.png)
 
 Ett projekt för att underlätta publicering och och vidareutnyttjande av öppna data om offentlig upphandling lanseras av [Open Knowledge Sweden](http://openknowledge.online/) och Myndigheten för digital förvaltning ([DIGG](https://www.digg.se/)). Detta är troligen det första projektet i Sverige som spårar och visualiserar upphandlingsmönster med aktiv medverkan av både representanter från den offentliga sektorn och datanvändare från offentlig, privat och ideell sektor.
