@@ -17,6 +17,10 @@ fields:
   config:
     maxSize: 64
   label: Cover
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - _posts/2020-10-20-hur-undviker-man-bluffakturor.md
 - _posts/2020-11-20-civic-tech-moter-govtech.md
