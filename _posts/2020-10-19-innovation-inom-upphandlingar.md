@@ -1,9 +1,10 @@
 ---
-title: "Event: Innovation inom upphandlingar"
+title: 'Event: Innovation inom upphandlingar'
 permalink: innovation inom upphandlingar
 cover: "/assets/images/guide-image.jpg"
----
+tags: []
 
+---
 _**Att öppna upp och tillgängliggöra datan från kommuners inköp kan minska risken att drabbas av bluffakturor och utbredd korruption. När allt blir transparent kan informationen från inköpen granskas av medborgare såväl som leverantörer och journalister.**_
 
 Under innovationsveckan arrangerade [Open Knowledge Sweden](https://sites.google.com/view/oksweden/home) och myndigheten för digital förvaltning [DIGG](https://www.digg.se/) seminariet Innovation inom upphandlingar. Där presenterade representanter från den offentliga förvaltningens inköpscentral i Finland (Hansel) tjänsten [granskaupphandlingar.fi ](https://www.granskaupphandlingar.fi/)som tillhandahåller öppna data om statens och kommunernas inköp.
