@@ -7,28 +7,27 @@ image: "/assets/images/blog_journalism-in-the-age-of-open-data-03.png"
 ---
 ![](/assets/images/blog_journalism-in-the-age-of-open-data-03.png)
 
-Följ pengarna i svensk upphandling!
+Vi lanserar en **workshop-serie för journalister!**
 
-OpenUP projektet lanserar workshop-serie för journalister
+I mars och april kommer vi organisera **flera workshops speciellt för journalister** som vill lära sig mer om hur man kan gräva i offentliga förvaltningars inköpsdata.
 
-Vinnova finansierar under 2020-21 ett projekt för att göra svensk upphandlingsdata lätt tillgänglig för allmänheten i en portal, något som redan finns och används flitigt av journalister, medborgare och tjänstemän i de flesta andra Europeiska länder.
+Under de workshops kommer **Malin Crona**, datajournalist och expert, förklara hur man kan **begära och använda inköpsdata i sin utredning**. 
 
-I portalen OpenUP ligger redan nu data tillgänglig från ett dussintal myndigheter och kommuner - och nu har du möjlighet att få en direkt inblick i systemet och under ledning av en av Sveriges främsta datajournalister diskutera hur du lättast söker information och skapar narrativ med hjälp av databasen.
+Sedan kommer vår datavetare **Ana Bulas Cruz** visa hur man kan **använda vår portal för att lätt utforska och visualisera data** från de organisationer som har redan publicerat det.
 
-**Workshop 1 Välj mellan 10 mars klockan 16 – 18 eller den 17 mars 8.30 – 10.30.**
+**Slutmålet är att lära sig hur man kan komma åt data och bygga _stories_ och narrativ med dem.**
+
+#### **Workshop 1 Välj mellan 10 mars klockan 16 – 18 eller den 17 mars 8.30 – 10.30**
 
 På agendan bl.a.:
 
-\- hitta narrativ i leverantörskontradata
+* hitta narrativ i leverantörsreskontra
+* rätt sökvägar, effektivare arbetssätt, bättre information
+* utmaningar vid datasökning – hur överkommer du hindren?
+* erfarenhetsutbyte och möjlighet att ge input om hur portalen kan vidareutvecklas
 
-\- rätt sökvägar - effektivare arbetssätt, bättre information
+#### Workshop 2: 24 mars klockan 8.30-10.30 eller 31 mars mellan 16-18
 
-\- utmaningar vid datasökning - hur överkommer du hindren?
+Fokus blir på framtida möjligheter inom datavisualisering och användning, samt hur vi kan underlätta datasökning och ett effektivt och automatiserat informationsflöde från myndigheter och kommuner. Tjänstepersoner kommer även delta i diskussionerna.
 
-\- erfarenhetsutbyte och möjlighet att ge input om hur portalen kan vidareutvecklas
-
-Workshop 1 kommer att följas av ett andra tillfälle då även tjänstemän kommer att delta och där fokus blir på framtida möjligheter inom datavisualisering och användning, samt hur vi kan underlätta datasökning och ett effektivt och automatiserat informationsflöde från myndigheter och kommuner.
-
-**Workshop 2 save the date: 24 mars klockan 8.30-10.30 eller 31 mars mellan 16-18**
-
-Intresserad av att delta? För anmälan eller frågor, vänligen kontakta [tonimickiewicz@gmail.com](mailto:tonimickiewicz@gmail.com)
+Vill du delta? För anmälan eller frågor, vänligen kontakta [tonimickiewicz@gmail.com](mailto:tonimickiewicz@gmail.com)
