@@ -2,8 +2,10 @@
 title: De vill öppna Sveriges dataguldgruva
 permalink: June Report
 image: "/assets/images/unnamed.png"
----
+tags: []
+cover: "/assets/images/unnamed.png"
 
+---
 ### **De vill öppna Sveriges dataguldgruva**
 
 I **Sverige görs det inköp på över 700 miljarder kronor om året av offentliga aktörer. Men datan från de här inköpen är fortfarande väldigt otillgänglig. Denna ”guldgruva” vill aktörerna bakom projektet Open Up! tillgängliggöra. Målet är att få så många myndigheter, kommuner och regioner att öppna upp.**
