@@ -1,7 +1,6 @@
 ---
 title: 'Innovationsveckan: Så kan öppen upphandling spara miljoner'
 permalink: innovationsveckan
-image: "/assets/images/logo-min.png"
 tags: []
 cover: "/assets/images/granskaupphandlingar-fi.png"
 

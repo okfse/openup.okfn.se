@@ -1,7 +1,6 @@
 ---
 title: De vill öppna Sveriges dataguldgruva
-permalink: June Report
-image: "/assets/images/unnamed.png"
+permalink: de-vill-oppna-sveriges-dataguldgruva
 tags: []
 cover: "/assets/images/unnamed.png"
 
@@ -10,7 +9,7 @@ cover: "/assets/images/unnamed.png"
 
 I **Sverige görs det inköp på över 700 miljarder kronor om året av offentliga aktörer. Men datan från de här inköpen är fortfarande väldigt otillgänglig. Denna ”guldgruva” vill aktörerna bakom projektet Open Up! tillgängliggöra. Målet är att få så många myndigheter, kommuner och regioner att öppna upp.**
 
-Projektet[ Open Up!](https://medium.com/r/?url=https%3A%2F%2Fopenup.open-knowledge.se%2F) som drivs av Open Knowledge Sweden och DIGG (Myndigheten för digital förvaltning), inleder med att försöka öppna upp leverantörsreskontror, det vill säga uppgifter om genomförda affärer hos kommuner och regioner. Genom att automatisera utflödet av data från ekonomisystemen behöver inga tjänstepersoner hämta ut handlingar manuellt — något som kan spara kommunerna en hel del pengar.
+Projektet [Open Up!](https://medium.com/r/?url=https%3A%2F%2Fopenup.open-knowledge.se%2F) som drivs av Open Knowledge Sweden och DIGG (Myndigheten för digital förvaltning), inleder med att försöka öppna upp leverantörsreskontror, det vill säga uppgifter om genomförda affärer hos kommuner och regioner. Genom att automatisera utflödet av data från ekonomisystemen behöver inga tjänstepersoner hämta ut handlingar manuellt — något som kan spara kommunerna en hel del pengar.
 
 – I Ukraina har man räknat med att spara hela 13 procent av upphandlingsvärdet genom att öppna upp datan. Visserligen finns det mycket olikheter mellan Ukraina och Sverige men det är ändå talade för potentialen, beskriver Pierre Mesure, expert inom öppna data på Open Knowledge Sweden.
 

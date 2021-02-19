@@ -1,7 +1,7 @@
 ---
 title: Följ pengarna i svensk upphandling!
 permalink: Narrative Workshop
-image: "/assets/images/blog_journalism-in-the-age-of-open-data-03.png"
+cover: "/assets/images/blog_journalism-in-the-age-of-open-data-03.png"
 
 ---
 ![](/assets/images/blog_journalism-in-the-age-of-open-data-03.png)

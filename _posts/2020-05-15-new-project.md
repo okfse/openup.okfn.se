@@ -1,11 +1,8 @@
 ---
 title: New project to open up public procurement in Sweden
-date: ''
-categories: []
 tags:
 - project
 - presentation
-image: ''
 cover: "/assets/images/illustration-blog-1.png"
 permalink: new-project
 

@@ -1,11 +1,8 @@
 ---
 title: Nytt projekt för att öppna upp data om offentliga upphandlingar i Sverige
-modify_date: '2020-05-15'
-categories: []
 tags:
 - project
 - presentation
-image: "/assets/images/illustration-blog-1.png"
 cover: "/assets/images/illustration-blog-1.png"
 permalink: nytt-projekt
 
