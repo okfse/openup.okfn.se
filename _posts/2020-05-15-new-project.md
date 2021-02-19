@@ -1,14 +1,15 @@
 ---
-title: "New project to open up public procurement in Sweden"
-date: 2020-05-15
-categories:
-  - blog
+title: New project to open up public procurement in Sweden
+date: ''
+categories: []
 tags:
-  - project
-  - presentation
-image: /assets/images/illustration-blog-1.png
----
+- project
+- presentation
+image: ''
+cover: "/assets/images/illustration-blog-1.png"
+permalink: new-project
 
+---
 ![](/assets/images/illustration-blog-1.png)
 
 A project to support release and reuse of public procurement data is being launched by [Open Knowledge Sweden](http://openknowledge.online/) and the Swedish Agency for Digital Government ([DIGG](https://www.digg.se/)), probably the first project in Sweden to trace and visualise public procurement patterns with the involvement of both data suppliers and data users.
