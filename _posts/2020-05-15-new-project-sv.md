@@ -29,9 +29,3 @@ Toni Mickiewicz, co-chair of Open Knowledge Sweden: [tonimickiewicz@gmail.com](m
 Tel. +46 760 073 321
 
 Open Knowledge Sweden website: [http://openknowledge.online/](http://openknowledge.online/ "http://openknowledge.online/")
-
-![](/assets/images/vinnova-logo.png)
-
-![](/assets/images/okfn-logo.png)
-
-![](/assets/images/digg-logo.png)
