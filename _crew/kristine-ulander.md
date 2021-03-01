@@ -9,4 +9,4 @@ mail: ''
 linkedin: https://www.linkedin.com/in/kristineulander/
 
 ---
-Programledare för [uppdrag](https://www.regeringen.se/regeringsuppdrag/2019/05/uppdrag-att-oka-den-offentliga-forvaltningens-formaga-att-tillgangliggora-oppna-data/) till DIGG att öka den offentliga förvaltningens förmåga att tillgängliggöra öppna data, bedriva öppen och datadriven innovation i samverkan mellan forskning, näringsliv och civilsamhälle. Leder utvecklingsarbetet med Sveriges dataportal. Expert i Open data and PSI expertgrupp i EU kommissionen samt expert till SOU Öppna data utredningen. Sitter med i styrgrupp för Hack for Sweden samt NSÖD (RISE).
+Kristine Ulander arbetar med digital utveckling på [DIGG](https://digg.se), med särskilt fokus på öppna data och datadriven innovation. Leder utvecklingsarbetet med [Sveriges dataportal](https://dataportal.se). Expert i Open data and PSI expertgrupp i EU kommissionen.
