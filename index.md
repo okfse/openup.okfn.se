@@ -52,7 +52,7 @@ data:
         - title:
           image:
             src: /assets/images/okfn-logo.png
-            url: https://sites.google.com/view/oksweden/home
+            url: http://okfn.se/
             style: "max-width: 60%; max-height: 60%"
             is_row: true
         - title:
