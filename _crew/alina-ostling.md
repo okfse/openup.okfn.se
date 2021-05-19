@@ -4,7 +4,7 @@ permalink: "/alina/"
 categories:
 - Open Knowledge Sweden
 job: Scientific Coordinator
-mail: alina.ostling@gmail.com
+mail: alina@okfn.se
 linkedin: alinaostling
 image: "/assets/images/alina-ostling-okse.jpg"
 
