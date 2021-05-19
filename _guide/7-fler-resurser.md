@@ -32,4 +32,4 @@ Läs den på ​[Open Contracting Partnerships webbplats](https://archive.open-c
 
 Sen vårt projekt började har vi hjälpt flera offentliga organisationer att publicera sina inköpsdata. Inom projektets ram erbjuder vi dessutom vårt stöd gratis så passa på!
 
-Kontakta [Alina Ostling](mailto:alina.ostling@gmail.com) för att komma igång!
+Kontakta [Alina Ostling](mailto:alina@okfn.se) för att komma igång!
