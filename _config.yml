@@ -78,6 +78,9 @@ collections:
   guide:
     output: true
 
+analytics:
+  provider: "custom"
+
 defaults:
   # _posts
   - scope:
