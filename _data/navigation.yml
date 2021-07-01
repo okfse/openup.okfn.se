@@ -59,3 +59,24 @@ publicera:
         url: /publicera/fler-resurser#läs-mer
       - title: Boka ett möte med oss!
         url: /publicera/fler-resurser#boka-ett-möte-med-oss
+
+visualisera:
+  - title: Start
+    url: /visualisera/intro
+  - title: Utforska datat själv!
+    url: /visualisera/utforska-datat-själv
+    children: 
+      - title: Login Details
+        url: /visualisera/utforska-datat-själv/login-details
+      - title: Getting started
+        url: /visualisera/utforska-datat-själv/getting-started
+      - title: The dataset
+        url: /visualisera/utforska-datat-själv/the-dataset
+      - title: Filtering data
+        url: /visualisera/utforska-datat-själv/filtering-the-data
+      - title: Downloading data
+        url: /visualisera/utforska-datat-själv/download-data
+      - title: Visualising data
+        url: /visualisera/utforska-datat-själv/visualising-data
+      - title: Create a dahsboard
+        url: /visualisera/utforska-datat-själv/creating-a-dashboard

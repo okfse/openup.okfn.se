@@ -77,6 +77,8 @@ collections:
     output: false
   guide:
     output: true
+  userguide:
+    output: true
 
 analytics:
   provider: "custom"
@@ -102,6 +104,17 @@ defaults:
       layout: article
       sidebar:
         nav: publicera
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: true
+      show_date: false
+  - scope:
+      path: "_userguide"
+    values:
+      layout: article
+      sidebar:
+        nav: visualisera
       license: true
       aside:
         toc: true
