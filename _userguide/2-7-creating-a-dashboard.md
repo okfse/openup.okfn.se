@@ -4,13 +4,16 @@ layout: article
 permalink: "/visualisera/utforska-datat-själv/creating-a-dashboard"
 ---
 
-To create a dahsboard click on the plus sign at the top right corner of the page and selecting **Ny insturmentpanel**. 
+Tryck på **Ny insturmentpanel** längst upp till höger för att skapa en ny *dashboard*.
 
 ![](/assets/images/userguide/metabase-create-dashboard-1.png)
 
-Then you name the dashboard, give it a short description and a new dahsboard is created. If you want your dahsboard to be easily accessible by all users, select **Våra analyser** under *Vilken samling ska detta tillhöra?*.
+Välj ett namn och en samling för din *dashboard*. Om du vill göra den offentlig kan du välja **Våra analyser** under *Vilken samling ska detta tillhöra?*.
 
 ![](/assets/images/userguide/metabase-create-dashboard-2.png)
 
-In Metabase you build a dashboard by 
-For a complete guide on how to build and customise a dashboard please refer to [this Metabase guide](https://www.metabase.com/docs/latest/users-guide/07-dashboards.html). For an example of a full dashboard please [visit the intro page](/visualisera/).
+Nu kan du lägga alla visualiseringar som du har skapat på din *dashboard*. Om du vill veta hur du kan skapa visualiseringar kan du läsa [den här sidan](/visualisera/utforska-datat-själv/visualising-data).
+
+Vill du veta mer om hur du kan anpassa, dela din *dashboard* eller integrera den i din egen webbsida kan du läsa [Metabases vägledningar](https://www.metabase.com/docs/latest/users-guide/07-dashboards.html) på engelska.
+
+Vi använder *dashboards* på projektets webbplats för att sammanfatta den data som vi har samlat. Se ett exempel [här](/visualisera/overblick).

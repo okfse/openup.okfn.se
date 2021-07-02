@@ -1,58 +1,58 @@
 ---
-title: Visualising data
+title: Visualisera data
 layout: article
 permalink: "/visualisera/utforska-datat-själv/visualising-data"
 ---
 
-In Metabase, you make a visualisation by asking a question to the data. You can access this function at any point by clicking the **Ställ en fråga** at the top right corner of the page. 
+I Metabase kan man skapa en visualisering genom att ställa en fråga till datan. Tryck på **Ställ en fråga** längst upp till höger på sidan.
 
-Here we will look at a specific example of asking a question using den avancerade editorn.
+Här kommer vi att titta på ett specifikt exempel på hur man ställer en fråga med den avancerade editorn.
 
 **Example**
-Let's say we want to look at how much Eskilstuna Kommun has spent per month during the first half of 2020. 
+Låt oss säga att vi vill titta på hur mycket Eskilstuna Kommun har spenderat per månad under första halvåret 2020.
 
-1. Click on **Ställ en fråga** and select **Anpassad fråga**. 
+1. Tryck på **Ställ en fråga** och välj **Anpassad fråga**.
 
     ![](/assets/images/userguide/metabase-question-example-1.png)
 
-2. Select **Leverantörsreskontra**.
+2. Välj **Leverantörsreskontra**.
 
    ![](/assets/images/userguide/metabase-question-example-2-1.png)
 
-   In the following screen select **Leverantörsreskontra** again.
+   Välj **Leverantörsreskontra** igen.
 
    ![](/assets/images/userguide/metabase-question-example-2-2.png)
 
-3. We then filter the data set so that we get data from *Eskilstuna Kommun* between *January 1st 2020 and June 30th 2020*. Here we also add a filter requiring that **Unik** is true so that we make sure we are counting each invouce only once. (For more details on filtering please refer to [this section](/visualisera/utforska-datat-själv/filtering-the-data).)
+3. Filtrera data efter Köpare *Eskilstuna Kommun* och datum *January 1st 2020 till June 30th 2020*. Filtrera efter **Unik** för att se till att undvika att dubbelräkna fakturor. (Se [denna sida](/visualisera/utforska-datat-själv/filtering-the-data) för mer detalj om filtrering.)
 
    ![](/assets/images/userguide/metabase-question-example-3.png)
 
-4. Then under **Summera** we select the metric that we want to look at, in this case *Summan av*. 
+4. Under **Summera** väljer du vad du vill se, i detta fall *Summan av*.
 
    ![](/assets/images/userguide/metabase-question-example-4-1.png)
 
-And then we select the column that we want to apply this metric to, in this case *Belopp*. 
+   Välj kolumnen som du vill tillämpa denna statistik på, i detta fall *Belopp*.
 
    ![](/assets/images/userguide/metabase-question-example-4-2.png)
 
-5. We select which column we want to group by, in our example, **Datum**. By default the data is shown per day, so we click on *per dag* and then select *Månad* instead. Then click on **Visualisera**. 
+5. Välj vad du vill gruppera efter, i detta fall **Datum**. Som förstahandsval kommer det en grupp per dag, men du kan välja t.ex. *Månad* istället. Sedan tryck på **Visualisera**.
 
    ![](/assets/images/userguide/metabase-question-example-5.png)
 
-6. Now you can see your graph. By default this is displayed as a line graph but in our example it would be better to have a bar chart. Click on **Visualisering** at the bottom left of the page and then select **Stapel**. 
+6. Nu kan du se din visualisering. Än så länge är det en linjediagram.. Tryck på **Visualisering** längst ned till vänster och välj **Stapel** för att få en stapeldiagram.
 
    ![](/assets/images/userguide/metabase-question-example-6.png)
 
-7. Now that we have our bar chart we can change the settings by clicking on **Inställningar** at the bottom left of the page. As an example here we will add the total sum for each month at the top of each bar. For that we click on the **Visa** tab within **Inställningar** and then toggle the button under **Visa värden på datapunkter**. 
+7. Nu har vi en stapeldiagram! Det finns många saker man kan göra för att göra den snyggare och de finns i **Inställningar** längst ned till vänster. T.ex. kan du lägga till den totala summan ovanpå varje stapel. Tryck på **Visa** i **Inställningar** och välj **Visa värden på datapunkter**.
 
    ![](/assets/images/userguide/metabase-question-example-7.png)
 
-8. And now we have our chart! 
+8. Nu är vår visualisering klar!
 
    ![](/assets/images/userguide/metabase-question-example-8.png)
 
 <i class="fas fa-info-circle"></i>
-OBS! When calculating summary statistics such as the total sum spent by a given buyer, please remember to apply a the **Unik** is *True* filter, otherwise you might overestimate your value since you could be counting a given invoice more than once. If, on the other hand, you would like to see the total amount registered to a specific account, you should not apply this filter since invoices are only ever registered to a given account once.  
+OBS! När du beräknar sammanfattningsstatistik, till exempel den totala summan som en viss köpare spenderar får du komma ihåg att filtrera efter **Unik** = *True*, annars kan du överskatta ditt värde eftersom vissa fakturor kommer räknas mer än en gång. Om du däremot vill se det totala beloppet registrerat på ett visst konto, ska du inte använda detta filter eftersom fakturor aldrig registreras mer än en gång per konto.
 {:.info}
 
-For a complete guide on how to ask more complex questions to the data set, please refer to [this Metabase tutorial](https://www.metabase.com/docs/latest/users-guide/custom-questions.html). 
+Om du vill skapa mer avancerade visualiseringar rekommenderar vi [Metabases dokumentation](https://www.metabase.com/docs/latest/users-guide/custom-questions.html) på engelska.

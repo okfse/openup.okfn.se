@@ -1,40 +1,38 @@
 ---
-title: Filtering the data
+title: Filtrera data
 layout: article
 permalink: "/visualisera/utforska-datat-själv/filtering-the-data"
---- 
+---
 
-One of the most useful features of Metabase is that it allows you to filter the dataset and look more closely at the data you are interested in. 
+Med Metabase kan du filtrera data och titta närmare på precis det du är intresserad av.
 
-You can filter by clicking on the ***Filter*** purple button at the top left of the page and choosing which columns to filter on. You can filter by köpare, leverantör, datum, belopp, konto and more. 
+När du bläddrar i data kan du filtrera genom att trycka på knappen ***Filter*** längst upp till höger välja vilka kolumner du vill filtrera efter. Du kan t.ex. filtrera efter köpare, leverantör, datum, belopp, konto...
 
 ![](/assets/images/userguide/metabase-filtering.png)
 
-When searching for a particular leverantör it is recommended that you use **Levenrantör ID** rather than **Leveräntor** since the leverantör might be referred to by slightly different names in different fakturor. Similarly, filtering by **Konto Nr** usually gives cleaner results than filtering by **Konto Text**.
+När du letar efter en viss leverantör rekommenderas att du använder **Levenrantör ID** istället för **Leveräntor** eftersom deras exakta namn kan variera. På samma sätt ger filtrering efter **Konto Nr** vanligtvis renare resultat än filtrering efter **Konto Text**.
 
 <i class="fas fa-info-circle"></i>
-If you would like to see which state buyers have data on the platform you can click **Filter**, select **Köpare Text** and a list of all buyers will be displayed.
-{:.info} 
+Om du vill se listan på alla offentliga inköpare på plattformen kan du trycka på **Filter** och välja **Köpare Text**.
+{:.info}
 
 ![](/assets/images/userguide/metabase-kopare-list.png)
-
-
 ## Example
 
-Let's say we want to look at which services Mora Kommun has bought from Telenor during March 2020. 
+Låt oss säga att vi vill se vilka tjänster Mora Kommun har köpt från Telenor under mars 2020.
 
-1. Filter by **Köpare Text** and select *Mora Kommun*. 
+1. Filter efter **Köpare Text** och välj *Mora Kommun*.
 
     ![](/assets/images/userguide/metabase-filter-example-1.png)
 
-2. Filter by **Datum**. On the left dropdown menu select *Mellan* and then choose the dates between the first and the last days in March 2020. 
+2. Filter efter **Datum**. Välj *Mellan* och för start- och slutdatum 1a och 31a mars
 
     ![](/assets/images/userguide/metabase-filter-example-2.png)
 
-3. Now we want to add a final filter so that we get the invoices from Telenor. As mentioned before, the best way to filter on leverantör is by using **Leverantör ID**. Since we don't necessarily know the organisationsnummer of Telenor, we can find a row in the table where **Leverantör** is Telenor, click on the corresponding **Leverantör ID** and then click the equals sign in the pop up box with the filter icon. 
+3. Nu vill vi filtrera efter leverantör. För att hitta Telenors organisationsnummer kan man gå till deras webbplats, googla det eller leta efter en faktura från telenor genom att filtrera efter **Leverantör**. Sen kan man trycka på Telenors **Leverantör ID** och välja likhetstecken för att filtrera efter Telenors organisationsnummer.
 
     ![](/assets/images/userguide/metabase-filter-example-3.png)
 
-4. Now the table has all the right filters and is displaying our chosen subset of data.
+4. Nu har man valt alla relevanta filter och man kan se Telenors fakturor till Mora kommun i mars 2020.
 
     ![](/assets/images/userguide/metabase-filter-example-4.png)

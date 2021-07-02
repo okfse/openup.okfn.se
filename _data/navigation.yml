@@ -6,7 +6,7 @@ header:
   - title: "📕&nbsp;Publicera"
     url: /publicera
   - title: "📊&nbsp;Visualisera"
-    url: /visualisera
+    url: /visualisera/overblick
   - title: "📝&nbsp;Blogg"
     url: /blogg
   - title: "👩‍👩‍👧‍👦&nbsp;Om&nbsp;oss"
@@ -61,22 +61,25 @@ publicera:
         url: /publicera/fler-resurser#boka-ett-möte-med-oss
 
 visualisera:
-  - title: Start
-    url: /visualisera/intro
-  - title: Utforska datat själv!
+  - title: Våra offentliga dashboards
+    url: /visualisera
+    children:
+      - title: Överblick
+        url: /visualisera/overblick
+  - title: Utforska data själv!
     url: /visualisera/utforska-datat-själv
-    children: 
-      - title: Login Details
+    children:
+      - title: Logga in
         url: /visualisera/utforska-datat-själv/login-details
-      - title: Getting started
+      - title: Kom igång
         url: /visualisera/utforska-datat-själv/getting-started
-      - title: The dataset
+      - title: Datastrukturen
         url: /visualisera/utforska-datat-själv/the-dataset
-      - title: Filtering data
+      - title: Filtrera data
         url: /visualisera/utforska-datat-själv/filtering-the-data
-      - title: Downloading data
+      - title: Ladda ner data
         url: /visualisera/utforska-datat-själv/download-data
-      - title: Visualising data
+      - title: Visualisera data
         url: /visualisera/utforska-datat-själv/visualising-data
-      - title: Create a dahsboard
+      - title: Skapa en dashboard
         url: /visualisera/utforska-datat-själv/creating-a-dashboard

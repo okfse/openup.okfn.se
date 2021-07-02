@@ -8,7 +8,7 @@ permalink: "/publicera/for-ekonomihandlaggaren"
 
 För dig som jobbar på en ekonomiavdelning innebär publiceringen att du kommer spendera mindre tid på att besvara begäran om kopior av allmänna handlingar enligt offentlighetsprincipen.
 
-Den största nyttan är dock att det möjliggör en återanvändning av data i innovativa tjänster som kan ge din avdelning bättre insyn i hur man gör inköp. Projektet Open Up har startat en beta-tjänst som gör det möjligt för er att söka i era data, skapa visualiseringar och dashboards, detta kan fungera som stöd i ert arbete.
+Den största nyttan är dock att det möjliggör en återanvändning av data i innovativa tjänster som kan ge din avdelning bättre insyn i hur man gör inköp. Projektet Open Up! har startat en beta-tjänst som gör det möjligt för er att söka i era data, skapa visualiseringar och dashboards, detta kan fungera som stöd i ert arbete.
 
 ## Vart ska man börja?
 

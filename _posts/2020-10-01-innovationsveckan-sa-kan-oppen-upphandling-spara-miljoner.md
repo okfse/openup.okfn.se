@@ -15,7 +15,7 @@ Representanter från den offentliga förvaltningens inköpscentral i Finland ([*
 
 – Finland är verkligen en framgångshistoria! De har visat att det går att gå över till ett nästan helt öppet upphandlingssystem. Vi hoppas att svenska aktörer kan bli inspirerade, säger Alina Östling, medordförande i Open Knowledge Sweden som är arrangerar seminariet tillsammans med DIGG.
 
-Open Knowledge Sweden driver tillsammans med digitaliseringsmyndigheten [**DIGG**](https://www.digg.se/) projektet [Open Up](https://openup.open-knowledge.se/) som bland annat syftar till att hjälpa svenska kommuner och myndigheter att öppna upp upphandlingsinformation.
+Open Knowledge Sweden driver tillsammans med digitaliseringsmyndigheten [**DIGG**](https://www.digg.se/) projektet [Open Up!](https://openup.okfn.se) som bland annat syftar till att hjälpa svenska kommuner och myndigheter att öppna upp upphandlingsinformation.
 
 – Det svenska systemet för att hämta ut handlingar är just nu väldigt komplicerat och tidsödande, beskriver Toni Mickiewicz, medgrundare av Open Knowledge Sweden.
 
@@ -27,4 +27,4 @@ På seminariet kommer även projektet [Nationell skalning öppna data](https://w
 
 **Mer information:** Toni Mickiewicz tonimickiewicz@gmail.com
 
-[https://openup.open-knowledge.se/](https://openup.open-knowledge.se/ "https://openup.open-knowledge.se/")
+[https://openup.okfn.se](https://openup.okfn.se)

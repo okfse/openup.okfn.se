@@ -7,7 +7,7 @@ cover: "/assets/images/237326.jpg"
 ---
 Under de senaste veckorna har jag haft anledning att begära ut samma typ av handling från ett fyrtiotal olika myndigheter. Både statliga och kommunala. I de bästa av världar hade jag fått ungefär samma svar från alla, eftersom de tillämpar samma regelverk när de lämnar ut allmänna handlingar. Men det fick jag inte, och jag ska inte låtsas att jag är förvånad. Jag har gjort den här typen av breda begäran tidigare och fått samma resultat.
 
-Till myndigheternas försvar ska jag säga att jag har rört mig i något av en gråzon. Jag har begärt ett utdrag ur myndigheternas redovisningssystem som heter leverantörsreskontra. Det är en lista över inkomna fakturor där man kan se hur myndigheten spenderar skattepengar på olika varor och tjänster. Min begäran ingår i projektet OpenUp som syftar till att göra data om offentliga inköp mer lättillgängliga. Varför är det då en gråzonsbegäran? Jo, jag har bett att få utdraget elektroniskt. Inte nog med det. Jag har efterfrågat ett speciellt format, nämligen tabeller, tänk Excel.
+Till myndigheternas försvar ska jag säga att jag har rört mig i något av en gråzon. Jag har begärt ett utdrag ur myndigheternas redovisningssystem som heter leverantörsreskontra. Det är en lista över inkomna fakturor där man kan se hur myndigheten spenderar skattepengar på olika varor och tjänster. Min begäran ingår i projektet Open Up! som syftar till att göra data om offentliga inköp mer lättillgängliga. Varför är det då en gråzonsbegäran? Jo, jag har bett att få utdraget elektroniskt. Inte nog med det. Jag har efterfrågat ett speciellt format, nämligen tabeller, tänk Excel.
 
 Att exportera data från ett redovisningssystem till Excel är inte något praktiskt problem för någon myndighet så vitt jag förstår. Och vissa har expedierat den begärda handlingen med vändande e-post. Några har frågat om de kan filtrera bort alla personnummer innan de mejlar filen. Enskilda näringsidkare har nämligen sitt personnummer som organisationsnummer. Det har jag godtagit. När jag har föreslagit samma lösning för andra myndigheter har de vägrat med hänvisning till att det inte kan göras med ”rutinbetonade åtgärder”.
 
@@ -17,6 +17,6 @@ I min breda begäran ingick också landets 21 länsstyrelser, alltså 21 statlig
 
 Myndigheter behöver egentligen inte motivera varför de vägrar lämnar ut allmänna handlingar elektroniskt. De är inte skyldiga att göra det helt enkelt. Det räcker med utskrifter. Det framgår av 2 kap. 16 § första stycket i tryckfrihetsförordningen, populärt kallad ”pappersbromsen”. Nyligen föreslog en statlig utredning att elektroniskt utlämnande ska vara normen. Sådana förslag har i och för sig lagts fram tidigare, så man får se om det blir verklighet. Klart är att det skulle förenkla för oss som vill göra data om offentliga inköp öppna och lättillgängliga. Och det borde väl alla vilja? Det är ju data som har samlats in för skattepengar och som handlar om hur skattepengar används. Lägg ut! säger vi.
 
-En del av de leverantörsreskontra som vi har fått ut från myndigheter har vi nu publicerat på [vår plattform](https://openup.open-knowledge.se/visualisera)
+En del av de leverantörsreskontra som vi har fått ut från myndigheter har vi nu publicerat på [vår plattform](https://openup.okfn.se/visualisera)
 
 Per Hagström

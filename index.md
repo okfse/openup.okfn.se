@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: 'OpenUp!'
+title: 'Open Up!'
 excerpt: >
    Mer transparens. Mer innovation. Bättre inköp.
 permalink: /
@@ -47,7 +47,7 @@ data:
       image:
         src: /assets/images/bi-portal.png
       background_color: "#C4F5FF"
-    - title: Vi är OpenUp!
+    - title: Vi är Open Up!
       children:
         - title:
           image:

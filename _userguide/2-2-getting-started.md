@@ -1,24 +1,21 @@
 ---
-title: Getting Started
+title: Kom igång
 layout: article
 permalink: "/visualisera/utforska-datat-själv/getting-started"
 ---
 
-Once you login in to the platform you will be taken to the welcome screen, with 3 sections. 
+När du har loggat in på plattformen kommer du se en startsida med tre sektioner.
 
 ![](/assets/images/userguide/metabase-welcome-page.png)
 
-1. **Börja Här** - here you can find driect links to public dashboards that have been pinned by platform users. You can change which dashboards are pinned by clicking on "Bläddra igenom allt" under section 2, selecting the "Instrumentpaneler" tab, navigating to the dahsboard you would like to pin and selecting "Fäst denna post".
+1. **Börja Här** - Här kan du hitta snabblänkar till offentliga instrumentpaneler som har uppmärksamt av plattformanvändare. Du kan ändra vilka instrumentpaneler som uppmärksamms genom att trycka på "Bläddra igenom allt" under avsnitt 2, välja fliken "Instrumentpaneler", navigera till det dahsboard du vill uppmärksamma och välja "Fäst denna post".
 
     ![](/assets/images/userguide/metabase-pin-dashboard.png)
 
-2. **Våra Analyser** - here if you click on "Bläddra igenom allt" you will be taken to a page where you can see all public instumentpaneler och frågor that have been created. 
+2. **Våra Analyser** - Här kan du se alla offentliga visualiseringar som andra har skapat.
 
     ![](/assets/images/userguide/metabase-vara-analyser.png)
 
-3. **Våra Data** - here you will find a single dataset called Leverantörsreskontra, containing all the data available on the platform. If you click Leverantörsreskontra and then click Leverantörsreskontra again in the following page you will be taken to an interactive table where you can explore the dataset. You can also access the dataset at any point by clicking on "Visa data" at the top right of the page and then selecting "Leverantösreskontra" twice. 
+3. **Våra Data** - Här hittar du all data som finns på plattformen. I nuläget är det en enda dataset som heter Leverantörsreskontra, som innehåller all tillgänglig data på plattformen. Om du väljer den kommer du till en interaktiv tabell där du kan utforska datamängden. Själva datan kan du alltid komma åt när som helst genom att trycka på "Visa data" längst upp till höger på sidan.
 
     ![](/assets/images/userguide/metabase-vara-data.png)
-
-
-

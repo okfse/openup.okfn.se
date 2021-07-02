@@ -16,7 +16,7 @@ Under innovationsveckan arrangerade [Open Knowledge Sweden](http://okfn.se/) och
 
 Bland finska politiker fanns bred enighet kring öppnandet av inköpsdatan och flera privata företag har uttryckt positiv respons för möjligheten att studera sina konkurrenter, beskrev Juho Pursimo från Hansel.
 
-Projektet [Open Up](https://openup.open-knowledge.se/) som drivs av Open Knowledge Sweden och DIGG syftar till att leda utvecklingen i Sverige åt ett liknande håll som Finland.
+Projektet [Open Up!](https://openup.okfn.se) som drivs av Open Knowledge Sweden och DIGG syftar till att leda utvecklingen i Sverige åt ett liknande håll som Finland.
 
 Det är inspirerande att se hur andra länder arbetar! Kan vi införa det här i Sverige? I Sverige finns ingen centraliserad inköpsavdelning på statlig nivå som det gör i Finland i Hansel. Det kräver därför en samverkan hos myndigheter och offentliga aktörer, beskrev Kristine Ulander som jobbar med digital utveckling på DIGG.
 
@@ -40,4 +40,4 @@ Under eventet presenterade även vårt projekt en vägledning för att hjälpa o
 - [Tatjana Apanasevic (RISE)](https://drive.google.com/file/d/1kVAsigv3O-yemiT_CbzHIRxyMzyXB5U7/view?usp=sharing)
 - [Juho Pursimo (Hansel)](https://drive.google.com/file/d/1AxJnrXEegJf_NnWQq781tQoLFWZHmfW2/view?usp=sharing)
 - [Kristine Ulander (DIGG)](https://drive.google.com/file/d/1MjTEY80iYfcmHALK-WjZazlpbBUenatI/view?usp=sharing)
-- [Pierre Mesure (OpenUp!)](https://drive.google.com/file/d/1Za37mz_fZ3BdBhN5zJleqe-MvSiWsJKt/view?usp=sharing)
+- [Pierre Mesure (Open Up!)](https://drive.google.com/file/d/1Za37mz_fZ3BdBhN5zJleqe-MvSiWsJKt/view?usp=sharing)
