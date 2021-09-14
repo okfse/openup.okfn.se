@@ -62,14 +62,12 @@ publicera:
 
 visualisera:
   - title: Våra offentliga dashboards
-    url: /visualisera
     children:
       - title: Överblick
         url: /visualisera/overblick
       - title: Vilka data finns på portalen?
         url: /visualisera/vilka-data-finns-pa-portalen
   - title: Utforska data själv!
-    url: /visualisera/utforska-datat-själv
     children:
       - title: Logga in
         url: /visualisera/utforska-datat-själv/login-details

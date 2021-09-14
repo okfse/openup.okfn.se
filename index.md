@@ -13,7 +13,7 @@ article_header:
     - text: <i class="fas fa-lock-open"></i> Publicera
       url: /publicera
     - text: <i class="fas fa-chart-bar"></i> Utforska
-      url: /visualisera
+      url: /visualisera/overblick
   height: 70vh
   theme: dark
   background_image:
@@ -40,9 +40,9 @@ data:
       excerpt: Bläddra i inköpsdata eller laddar ner det
       actions:
         - text: <i class="fas fa-chart-bar"></i> Se våra dashboards
-          url: /visualisera
+          url: /visualisera/overblick
         - text: <i class="fas fa-toolbox"></i> Skapa egna
-          url: /visualisera#vill-du-utforska-datat-själv
+          url: /visualisera/utforska-datat-själv/login-details
       theme: light
       image:
         src: /assets/images/bi-portal.png

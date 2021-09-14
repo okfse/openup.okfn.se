@@ -53,7 +53,7 @@ Råa inköpsdata exporterade från din kommuns ekonomisystem är kanske inte det
 
 Därför är vårt mål att göra det så lätt och användarvänligt som möjligt att utforska datan tack vare en *Business Intelligence*-portal.
 
-Kolla våra offentliga dashboards [här](/visualisera) och lär dig hur du kan skapa dina egna visualiseringar själv nu och återanvända dem var som helst!
+Kolla våra offentliga dashboards [här](/visualisera/overblick) och lär dig hur du kan skapa dina egna visualiseringar själv nu och återanvända dem var som helst!
 
 ## 2. En gemenskap som tillsammans skapar ett bättre samhälle
 
