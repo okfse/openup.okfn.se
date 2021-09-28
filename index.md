@@ -21,7 +21,7 @@ article_header:
     src: /assets/images/adrian-trinkaus-6ijM4ahQHtY-unsplash.jpg
 data:
   sections:
-    - title: Open Up! är ett projekt av Open Knowledge Sweden och DIGG som hjälper offentliga institutioner att publicera mer öppna data kring sina inköp och andra aktörer att återanvända dem.
+    - title: Open Up! är ett projekt av Open Knowledge Sweden som hjälper offentliga institutioner att publicera mer öppna data kring sina inköp och andra aktörer att återanvända dem.
       top: yes
       excerpt:
       bigimage: /assets/images/radio-station.jpg
@@ -37,7 +37,7 @@ data:
         src: /assets/images/guide-home.png
       background_color: "#E8E8E8"
     - title: Visualisera data
-      excerpt: Bläddra i inköpsdata eller laddar ner det
+      excerpt: Bläddra i eller ladda ner inköpsdata
       actions:
         - text: <i class="fas fa-chart-bar"></i> Se våra dashboards
           url: /visualisera/overblick
@@ -47,27 +47,21 @@ data:
       image:
         src: /assets/images/bi-portal.png
       background_color: "#C4F5FF"
-    - title: Vi är Open Up!
+    - title: Idag drivs Open Up! av
       children:
         - title:
           image:
-            src: /assets/images/okfn-logo.png
-            url: http://okfn.se/
-            style: "max-width: 60%; max-height: 60%"
+            src: /assets/images/okse-logo.svg
+            url: https://se.okfn.org/
+            style: "max-width: 30%; max-height: 30%"
             is_row: true
+    - title: Dessa organisationer har varit med
+      children:
         - title:
           image:
             src: /assets/images/digg-logo.png
             url: https://digg.se
-            style: "max-width: 60%; max-height: 60%"
-            is_row: true
-    - title: Partners
-      children:
-        - title:
-          image:
-            src: /assets/images/fgj-logo.jpg
-            url: http://www.fgj.se
-            style: "max-width: 60%; max-height: 60%"
+            style: "max-width: 80%; max-height: 80%"
             is_row: true
         - title:
           image:
@@ -77,17 +71,23 @@ data:
             is_row: true
         - title:
           image:
+            src: /assets/images/fgj-logo.jpg
+            url: http://www.fgj.se
+            style: "max-width: 50%; max-height: 50%"
+            is_row: true
+        - title:
+          image:
             src: /assets/images/ti-ukr-logo.png
             url: https://ti-ukraine.org/en/
             style: "max-width: 60%; max-height: 60%"
             is_row: true
-    - title: Vi finansieras av
+    - title: Projektet finansierades delvis av
       children:
         - title:
           image:
             src: /assets/images/vinnova-logo.png
             url: http://www.vinnova.se
-            style: "max-width: 40%; max-height: 40%"
+            style: "max-width: 30%; max-height: 30%"
             is_row: true
     - title: Allt vi producerar är 100% öppet!
       theme: dark

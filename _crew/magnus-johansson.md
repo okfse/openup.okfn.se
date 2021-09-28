@@ -1,5 +1,5 @@
 ---
-title: Magnus Johansson
+title: Magnus Johansson (jobbade på projektet 2020-2021)
 permalink: "/magnus/"
 categories:
 - DIGG

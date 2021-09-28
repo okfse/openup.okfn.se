@@ -1,3 +1,3 @@
-# Website for the project Öppen Upphandling
+# Website for the project Open Up!
 
-This website is built with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This website is built with the [Jekyll-TeXt theme](https://github.com/kitian616/jekyll-TeXt-theme).

@@ -15,7 +15,7 @@ Projektet [Open Up!](https://openup.okfn.se) som drivs av Open Knowledge Sweden 
 
 “När man öppnar upp data skapas innovation”
 
-En förebild finns i Finland där deras upphandlingsmyndighet har byggt tjänsten[ granskaupphandlingar.fi](https://granskaupphandlingar.fi) för att tillgängliggöra all data från den finska statens och samtliga kommuners inköp. I projektet [Open Up!](https://openup.okfn.se) används ett Open Source-baserat [Business Intelligence-verktyg](https://www.metabase.com) där kommuners och regioners kostnader matas in och kan skapa ögonöppnande visualiseringar av datan.
+En förebild finns i Finland där deras upphandlingsmyndighet har byggt tjänsten [granskaupphandlingar.fi](https://granskaupphandlingar.fi) för att tillgängliggöra all data från den finska statens och samtliga kommuners inköp. I projektet [Open Up!](https://openup.okfn.se) används ett Open Source-baserat [Business Intelligence-verktyg](https://www.metabase.com) där kommuners och regioners kostnader matas in och kan skapa ögonöppnande visualiseringar av datan.
 
 ![](/assets/images/unnamed.png)
 

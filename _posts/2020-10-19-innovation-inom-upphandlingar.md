@@ -33,8 +33,6 @@ Projektet Nationell skalning öppna data ([NSÖD)](https://www.ri.se/sv/vad-vi-g
 Under eventet presenterade även vårt projekt en vägledning för att hjälpa offentliga organisationer att publicera inköpsdata. Dokumentet kommer uppdateras kontinuerligt med ny kunskap och vi uppmanar kommuner och myndigheter att använda den redan idag för att komma igång med sin publicering!
 
 **Du kan hitta vägledningen** [**här**](/publicera) **(1.1)!**
-
-
 ### Ladda ner presentationerna:
 
 - [Tatjana Apanasevic (RISE)](https://drive.google.com/file/d/1kVAsigv3O-yemiT_CbzHIRxyMzyXB5U7/view?usp=sharing)

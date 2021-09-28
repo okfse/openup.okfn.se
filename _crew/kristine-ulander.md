@@ -1,5 +1,5 @@
 ---
-title: Kristine Ulander
+title: Kristine Ulander (jobbade på projektet 2020-2021)
 permalink: "/kristine/"
 categories:
 - DIGG

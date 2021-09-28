@@ -1,5 +1,5 @@
 ---
-title: Toni Mickiewicz
+title: Toni Mickiewicz (jobbade på projektet 2020-2021)
 permalink: "/toni/"
 categories:
 - Open Knowledge Sweden

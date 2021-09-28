@@ -11,7 +11,7 @@ Vi lanserar en **workshop-serie för journalister!**
 
 I mars och april kommer vi organisera **flera workshops speciellt för journalister** som vill lära sig mer om hur man kan gräva i offentliga förvaltningars inköpsdata.
 
-Under de workshops kommer **Malin Crona**, datajournalist och expert, förklara hur man kan **begära och använda inköpsdata i sin utredning**. 
+Under de workshops kommer **Malin Crona**, datajournalist och expert, förklara hur man kan **begära och använda inköpsdata i sin utredning**.
 
 Sedan kommer vår datavetare **Ana Bulas Cruz** visa hur man kan **använda vår portal för att lätt utforska och visualisera data** från de organisationer som har redan publicerat det.
 

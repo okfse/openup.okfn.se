@@ -6,7 +6,7 @@ permalink: "/publicera/for-it-strategen"
 
 ## I vilken format ska man publicera datan?
 
-**Open Contracting Data Standard** (OCDS) är den internationella standarden för att publicera öppna upphandlingsdata. Den skapades av Open Contracting Partnership precis för detta syfte och används av tiotals länder och andra organisationer, bl.a. Norge och Finland. Man kan läsa mer om standarden [här](https://www.open-contracting.org/data-standard). Inom projektet Open Up! studerar vi möjligheterna att använda OCDS men det är hittills ingen organisation i Sverige som har börjat att använda den.
+**Open Contracting Data Standard** (OCDS) är den internationella standarden för att publicera öppna inköpsdata. Den skapades av Open Contracting Partnership precis för detta syfte och används av tiotals länder och andra organisationer, bl.a. Norge och Finland. Man kan läsa mer om standarden [här](https://www.open-contracting.org/data-standard). Inom projektet Open Up! studerar vi möjligheterna att använda OCDS men det är hittills ingen organisation i Sverige som har börjat att använda den.
 
 Det här är en lista (på engelska) av alla typer av dokument och uppgifter som kan publiceras med OCDS:
 
@@ -16,7 +16,7 @@ Open Contracting har utarbetat en [mall](https://docs.google.com/document/d/1VAK
 
 ### Datastandard för leverantörsreskontra
 
-För **leverantörsreskontra** finns det svenska standarder som togs fram av de aktörerna  som redan publicerar den här datamängden. Vi rekommenderar [MetaSolutions standard](https://lankadedata.se/spec/leverantorsreskontra/), som används inom NSÖD och liknar formaten valt av Umeå och Göteborg.
+För **leverantörsreskontra** finns det en [svensk standard](https://lankadedata.se/spec/leverantorsreskontra/) som togs fram av de aktörerna som redan publicerar den här datamängden. Vi rekommenderar att använda den eftersom den används redan av flera offentliga organisationer och liknar mycket de exporteringsformaten av de vanligaste ekonomisystem.
 
 ## Hur bygger jag ett hållbart dataflöde för att publicera datan?
 
