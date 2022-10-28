@@ -1,15 +1,23 @@
 body {
-	font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  $select-color: rgba($main-color-1, .5);
 }
 
-h1,h2,h3,h4 {
-	font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif
+h1,
+h2,
+h3,
+h4 {
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
-.header__brand > a {
+.header__brand>a {
   font-size: 22px;
 }
 
-.navigation__item > a {
+.navigation__item>a {
   font-size: 18px;
+}
+
+.full-width {
+  padding: 20px;
 }

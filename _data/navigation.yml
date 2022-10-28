@@ -57,6 +57,10 @@ publicera:
         url: /publicera/fler-resurser#boka-ett-möte-med-oss
 
 visualisera:
+  - title: Nytt!
+    children:
+      - title: Bläddra i offentliga upphandlingar!
+        url: /visualisera/bladdra-i-offentliga-upphandlingar
   - title: Våra offentliga dashboards
     children:
       - title: Överblick
